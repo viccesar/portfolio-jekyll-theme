@@ -1,62 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f6f8;
-      color: #222;
-    }
-
-    header {
-      background-color: #003366;
-      color: white;
-      padding: 30px;
-      text-align: center;
-    }
-
-    main {
-      max-width: 900px;
-      margin: 30px auto;
-      padding: 25px;
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    h1, h2 {
-      color: #003366;
-    }
-
-    header h1 {
-      color: white;
-    }
-
-    .section {
-      margin-bottom: 25px;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
-</head>
-
-<body>
-
-  <header>
     <h1>About Me</h1>
     <p>Data Analytics | Education | Engineering | Applied Psychology</p>
-  </header>
 
   <main>
     <section class="section">
@@ -101,10 +44,6 @@
       </p>
     </section>
   </main>
-
-  <footer>
-    <p>&copy; 2026 Dr Victor Vargas</p>
-  </footer>
 
 </body>
 </html>
